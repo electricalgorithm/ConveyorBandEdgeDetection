@@ -22,3 +22,9 @@ As a first step, clone this repository into your host machine.
 # Since it is a OpenCV window, you can close it with pressing ESC.
 (venv) ~$ deactivate # To deactivate the virtual environment.
 ```
+
+## Results
+
+![](assets/result_imgs/result1.png)
+
+![](assets/result_imgs/result3.png)
